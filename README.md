@@ -1,5 +1,5 @@
 <h1>Análise de Dados e Elaboração de Dashboards</h1>
-<h3>Estudos de caso em que foi feita a análise do banco de dados(csv) e a criação de relatórios para atender à situação problema. São três casos:</h3>
+<h3>Estudos de caso em que foi feita a análise do banco de dados(csv) e a criação de relatórios para atender a situação problema. São três casos:</h3>
 <h2>Caso 1: SóVai</h2>
 <h3>Caso de estudo:</h3>
 <p>"A SÓ VAI, loja especializada em moda, famosa pelo estilo único, está necessitada para a criação de um relatório de vendas. Sua função agora é fornecer a ela essa análise com as seguintes relações:"</p>
